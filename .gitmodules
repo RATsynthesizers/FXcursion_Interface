@@ -1,0 +1,12 @@
+[submodule "SystemSW"]
+	path = SystemSW
+	url = https://github.com/RATsynthesizers/SystemSW.git
+[submodule "UtilitySW"]
+	path = UtilitySW
+	url = https://github.com/RATsynthesizers/UtilitySW.git
+[submodule "TouchGFX_Logic"]
+	path = TouchGFX_Logic
+	url = https://github.com/RATsynthesizers/TouchGFX_Logic
+[submodule "STM32CubeIDE/TouchGFX_Logic"]
+	path = STM32CubeIDE/TouchGFX_Logic
+	url = https://github.com/RATsynthesizers/TouchGFX_Logic.git
